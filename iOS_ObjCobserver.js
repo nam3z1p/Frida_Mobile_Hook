@@ -11,7 +11,6 @@ console.log("[+] .js loaded successfully ");
 // https://codeshare.frida.re/@mrmacete/objc-method-observer/
 ////////////////////////////////////////////////////////
 
-/*
 var ISA_MASK = ptr('0x0000000ffffffff8');
 var ISA_MAGIC_MASK = ptr('0x000003f000000001');
 var ISA_MAGIC_VALUE = ptr('0x000001a000000001');
@@ -101,4 +100,3 @@ function isReadable(p) {
         return false;
     }
 }
-*/
