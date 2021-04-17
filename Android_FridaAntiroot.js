@@ -5,7 +5,7 @@ console.log("[+] .js loaded successfully ");
 // fridantiroot
 // https://codeshare.frida.re/@dzonerzy/fridantiroot/
 ////////////////////////////////////////////////////////
-/*
+
 Java.perform(function() {
     var RootPackages = ["com.noshufou.android.su", "com.noshufou.android.su.elite", "eu.chainfire.supersu",
         "com.koushikdutta.superuser", "com.thirdparty.superuser", "com.yellowes.su", "com.koushikdutta.rommanager",
@@ -342,4 +342,3 @@ Java.perform(function() {
         }
     }
 });
-*/
