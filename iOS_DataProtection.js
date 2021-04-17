@@ -9,7 +9,7 @@ console.log("[+] .js loaded successfully ");
  */
 // https://codeshare.frida.re/@ay-kay/ios-dataprotection/
 ////////////////////////////////////////////////////////
-/*
+
 function listDirectoryContentsAtPath(path) {
     var fileManager = ObjC.classes.NSFileManager.defaultManager();
     var enumerator = fileManager.enumeratorAtPath_(path);
@@ -57,4 +57,3 @@ function getDataProtectionKeysForAllPaths() {
     }
     return dict;
 }
-*/
