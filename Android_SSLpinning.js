@@ -11,7 +11,7 @@ console.log("[+] .js loaded successfully ");
 //UPDATE 20191605: Fixed undeclared var. Thanks to @oleavr and @ehsanpc9999 !
 // https://codeshare.frida.re/@pcipolloni/universal-android-ssl-pinning-bypass-with-frida/
 /////////////////////////////////////////////////////////
-/*
+
 setTimeout(function(){
     Java.perform(function (){
         console.log("");
@@ -67,7 +67,7 @@ setTimeout(function(){
            }
     });
 },0);
-*/
+
 
 
 
