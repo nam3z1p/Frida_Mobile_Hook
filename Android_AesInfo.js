@@ -4,7 +4,7 @@ console.log("[+] .js loaded successfully ");
 // aesinfo
 // https://codeshare.frida.re/@dzonerzy/aesinfo/
 ////////////////////////////////////////////////////////
-/*
+
 Java.perform(function() {
 
     var use_single_byte = false;
@@ -177,4 +177,3 @@ Java.perform(function() {
         }
     }
 });
-*/
