@@ -13,10 +13,9 @@ if (ObjC.available){
 }
 else{
     console.log("Objective-C Runtime is not available!");
+}
 	
 /*
-
-
 function sleep(milliseconds) {
   var start = new Date().getTime();
   for (var i = 0; i < 1e7; i++) {
