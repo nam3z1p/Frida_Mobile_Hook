@@ -7,10 +7,10 @@ if (ObjC.available){
 		if (ObjC.classes.hasOwnProperty(className)){
 			//send("[*] "+className);
 			if(className.toLowerCase().indexOf(matchstring.toLowerCase()) >= 0){
-				send("\n\n")
-				send("========================================================================");
-				send("[*] "+className);
-				send("========================================================================");
+                send("\n\n")
+                send("========================================================================");
+                send("[*] "+className);
+                send("========================================================================");
 	
 				var methods = ObjC.classes[className].$ownMethods;
 				
